@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3E5B-144C
+
+ Directory of C:\Users\Surya\Desktop\myproject
+
+26-Sep-18  12:10 AM    <DIR>          .
+26-Sep-18  12:10 AM    <DIR>          ..
+26-Sep-18  12:10 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  238,133,084,160 bytes free
